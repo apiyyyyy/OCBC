@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-OCBC_Test_App-OCBC_Test_AppUITests/Pods-OCBC_Test_App-OCBC_Test_AppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
